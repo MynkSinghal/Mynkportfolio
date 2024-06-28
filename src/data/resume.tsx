@@ -10,7 +10,7 @@ export const DATA = {
     "Software Engineer turned Entrepreneur. I love building things.",
   summary:
     "a Student of Btech CSE at Manipal University Jaipur, with expertise in community engagement, event management, and graphic design. Currently serving as Deputy Head of Events and Head of Graphic Designing at MUJ ACM SIGBED Student Chapter. Strong track record of organizing successful events, fostering teamwork, and ensuring seamless execution. Skilled in social media management and generating engaging content. Owner of LaVisuals Discord, where I launched a thriving online marketplace and achieved 30% revenue growth. Moderator at Ujjwal Gamer Discord, known for organizing high-participation online events and nationally recognized tournaments. Seeking new opportunities to make a positive impact and drive success.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/photo.png",
   skills: [
     "React",
     "Next.js",
