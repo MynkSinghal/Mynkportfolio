@@ -57,7 +57,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Founder / Owner",
-      logoUrl: "/atomic.png",
+      logoUrl: "/dc.png",
       start: "Feb 2021",
       end: "Present",
       description:
@@ -69,7 +69,7 @@ export const DATA = {
       href: "https://github.com",
       location: "On-Site",
       title: "Head of Design and Events",
-      logoUrl: "/shopify.svg",
+      logoUrl: "/acm.png",
       start: "September 202r",
       end: "October 2023",
       description:
