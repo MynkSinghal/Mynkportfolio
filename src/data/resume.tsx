@@ -70,7 +70,7 @@ export const DATA = {
       location: "On-Site",
       title: "Head of Design and Events",
       logoUrl: "/acm.png",
-      start: "September 202r",
+      start: "September 2023",
       end: "October 2023",
       description:
         "Directed event planning for three successful events, each attracting over 10,000 attendees. Developed strategies with detailed timelines and budgets, increasing attendance by 25% and reducing costs by 15%. Maintained transparent communication with 15+ sponsors and vendors, improving project efficiency by 25% and achieving a 98% satisfaction rate among participants.",
